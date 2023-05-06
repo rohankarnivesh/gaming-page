@@ -17,3 +17,7 @@ sr.reveal('.play-text', {delay:200, origin:'bottom'});
 sr.reveal('.play-img', {delay:450, origin:'top'});
 sr.reveal('.icons', {delay:500, origin:'left'});
 sr.reveal('.scroll-down', {delay:300, origin:'bottom'});
+sr.reveal('.play-text-2', {delay:200, origin:'bottom'});
+sr.reveal('.play-img-2', {delay:450, origin:'top'});
+sr.reveal('.icons', {delay:500, origin:'left'});
+sr.reveal('.scroll-down', {delay:300, origin:'bottom'});
